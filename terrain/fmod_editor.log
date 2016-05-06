@@ -31,6 +31,11 @@
 [LOG] Manager::readBank                        : fileversion = 72, compatVersion = 70 (oldest = 44, newest = 72)
 [LOG] Manager::readBank                        : fileversion = 72, compatVersion = 70 (oldest = 44, newest = 72)
 [WRN] ObjectLookup::get                        : Lookup failed for BusWithInputs: {173bf5a5-99d9-4bee-b9d8-77a1c1153757}
+[WRN] ObjectLookup::get                        : Lookup failed for BusWithInputs: {173bf5a5-99d9-4bee-b9d8-77a1c1153757}
+[WRN] ObjectLookup::get                        : Lookup failed for BusWithInputs: {173bf5a5-99d9-4bee-b9d8-77a1c1153757}
+[WRN] ObjectLookup::get                        : Lookup failed for BusWithInputs: {173bf5a5-99d9-4bee-b9d8-77a1c1153757}
+[WRN] ObjectLookup::get                        : Lookup failed for BusWithSends: {9321bb13-d2e5-49b3-9436-3ea4b14194ca}
+[WRN] ObjectLookup::get                        : Lookup failed for BusWithSends: {9321bb13-d2e5-49b3-9436-3ea4b14194ca}
 [WRN] ObjectLookup::get                        : Lookup failed for BusWithSends: {9321bb13-d2e5-49b3-9436-3ea4b14194ca}
 [LOG] Manager::readBank                        : fileversion = 72, compatVersion = 70 (oldest = 44, newest = 72)
 [LOG] Thread::callback                         : * FMOD Studio bank load thread finished

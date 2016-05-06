@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{b504ec78-6fc1-4e22-8ad0-7957cee22f6d}">
+        <property name="assetPath">
+            <value>rompiendo_2.mp3</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>4.0489795918367344</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{f1dbf828-879a-455e-9226-ab0cf2904713}</destination>
+        </relationship>
+    </object>
+</objects>
