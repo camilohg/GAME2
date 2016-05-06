@@ -63,24 +63,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Plugins\FMOD\BankRefAttribute.cs" />
-    <Compile Include="Assets\Plugins\FMOD\EventRefAttribute.cs" />
-    <Compile Include="Assets\Plugins\FMOD\FMODAsset.cs" />
-    <Compile Include="Assets\Plugins\FMOD\FMOD_Listener.cs" />
-    <Compile Include="Assets\Plugins\FMOD\FMOD_StudioEventEmitter.cs" />
-    <Compile Include="Assets\Plugins\FMOD\OneshotList.cs" />
-    <Compile Include="Assets\Plugins\FMOD\ParamRef.cs" />
-    <Compile Include="Assets\Plugins\FMOD\RuntimeManager.cs" />
-    <Compile Include="Assets\Plugins\FMOD\RuntimeUtils.cs" />
-    <Compile Include="Assets\Plugins\FMOD\Settings.cs" />
-    <Compile Include="Assets\Plugins\FMOD\StudioBankLoader.cs" />
-    <Compile Include="Assets\Plugins\FMOD\StudioEventEmitter.cs" />
-    <Compile Include="Assets\Plugins\FMOD\StudioListener.cs" />
-    <Compile Include="Assets\Plugins\FMOD\StudioParameterTrigger.cs" />
-    <Compile Include="Assets\Plugins\FMOD\Wrapper\fmod.cs" />
-    <Compile Include="Assets\Plugins\FMOD\Wrapper\fmod_dsp.cs" />
-    <Compile Include="Assets\Plugins\FMOD\Wrapper\fmod_errors.cs" />
-    <Compile Include="Assets\Plugins\FMOD\Wrapper\fmod_studio.cs" />
     <Compile Include="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" />
     <Compile Include="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\HeadBob.cs" />
     <Compile Include="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs" />
@@ -135,20 +117,6 @@
     <Compile Include="Assets\Standard Assets\Utility\WaypointProgressTracker.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\FmodProject\FmodUnity\Build\GUIDs.txt" />
-    <None Include="Assets\FmodProject\FmodUnity\Metadata\Asset\{571b5158-3e5d-49c0-854b-a7c2ad2b9ad3}.xml" />
-    <None Include="Assets\FmodProject\FmodUnity\Metadata\AudioFile\{ef087d98-a996-4532-9721-03aa30a26928}.xml" />
-    <None Include="Assets\FmodProject\FmodUnity\Metadata\Bank\{c53d852f-e012-41d8-b850-31f0078cb57b}.xml" />
-    <None Include="Assets\FmodProject\FmodUnity\Metadata\BankFolder\{e6add16e-fbf9-40ed-bb8e-cbefd7dab059}.xml" />
-    <None Include="Assets\FmodProject\FmodUnity\Metadata\EncodingSetting\{181058ae-881a-4dfb-9987-9549c2a0afdc}.xml" />
-    <None Include="Assets\FmodProject\FmodUnity\Metadata\Event\{c1176f6f-e06f-4c49-811a-fe77de453a50}.xml" />
-    <None Include="Assets\FmodProject\FmodUnity\Metadata\EventFolder\{338dafcc-1201-4c2a-b005-0dec5f3fb05e}.xml" />
-    <None Include="Assets\FmodProject\FmodUnity\Metadata\Master.xml" />
-    <None Include="Assets\FmodProject\FmodUnity\Metadata\Mixer.xml" />
-    <None Include="Assets\FmodProject\FmodUnity\Metadata\Return\{0bb3bc9f-ffaa-4d02-8036-bd0633f17ea6}.xml" />
-    <None Include="Assets\FmodProject\FmodUnity\Metadata\SnapshotGroup\{4baa3c74-feb2-4c7e-bb47-68ab474a4713}.xml" />
-    <None Include="Assets\FmodProject\FmodUnity\Metadata\Tags.xml" />
-    <None Include="Assets\FmodProject\FmodUnity\Metadata\Workspace.xml" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
