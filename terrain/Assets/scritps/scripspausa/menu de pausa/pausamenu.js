@@ -36,5 +36,5 @@ function Continuar()
 
 function Menu(i : String)
 {
-	Application.LoadLevel("1");
+	Application.LoadLevel("menu");
 }
