@@ -1,0 +1,4 @@
+{c1176f6f-e06f-4c49-811a-fe77de453a50} event:/Meta muurcielago
+{7515f90d-2341-4e16-a57a-f935ce050093} bus:/
+{0bb3bc9f-ffaa-4d02-8036-bd0633f17ea6} bus:/Reverb
+{c53d852f-e012-41d8-b850-31f0078cb57b} bank:/Master Bank
