@@ -160,7 +160,7 @@
             <value>1</value>
         </property>
         <property name="soundSize">
-            <value>96</value>
+            <value>24</value>
         </property>
     </object>
     <object class="MixerSend" id="{56a4fab3-dca3-44dd-b5b7-d0c78d0eca75}">

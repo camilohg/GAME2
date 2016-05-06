@@ -5,7 +5,7 @@
             <value>Dragon Bite-SoundBible.com-1625781385</value>
         </property>
         <property name="outputFormat">
-            <value>2</value>
+            <value>1</value>
         </property>
         <relationship name="mixer">
             <destination>{bd1bf758-11c3-448a-a8cd-6750d9aa712f}</destination>
@@ -123,7 +123,6 @@
     <object class="MixerBusEffectChain" id="{e091a4b7-bbcf-40f7-898a-7a24eb80703e}">
         <relationship name="effects">
             <destination>{0d1d5869-d7f9-4750-8699-98a95e5c6054}</destination>
-            <destination>{69969ffa-5116-4738-845e-70d3591cec98}</destination>
             <destination>{5c2c7553-2443-4a40-9030-74c3d0b4ae6d}</destination>
         </relationship>
     </object>
@@ -136,10 +135,9 @@
     </object>
     <object class="MixerBusPanner" id="{9557cd84-20e3-46cc-ad64-e32507b2b2aa}"/>
     <object class="MixerBusFader" id="{0d1d5869-d7f9-4750-8699-98a95e5c6054}"/>
-    <object class="SpatialiserEffect" id="{69969ffa-5116-4738-845e-70d3591cec98}"/>
     <object class="MixerSend" id="{5c2c7553-2443-4a40-9030-74c3d0b4ae6d}">
         <property name="inputFormat">
-            <value>2</value>
+            <value>1</value>
         </property>
         <relationship name="mixerReturn">
             <destination>{9321bb13-d2e5-49b3-9436-3ea4b14194ca}</destination>
